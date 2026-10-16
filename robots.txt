@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gov.republic-of-axie.org/sitemap.xml
